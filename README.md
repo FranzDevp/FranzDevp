@@ -1,16 +1,15 @@
-## Hi there 👋
+## Hello there 👋 I'm Francisco
 
-<!--
-**FranzDevp/FranzDevp** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🧵 From Sewing Studio to Software Systems
 
-Here are some ideas to get you started:
+- 🔭 Currently working in a **sewing studio**, but my eyes are set on **tech horizons**  
+- 🌱 Learning **Information Systems I** – building the foundations for big things  
+- 🤔 Always curious about **how the internet truly works**  
+- 💬 Ask me anything about **my journey** – I've got stories to tell  
+- 📫 Reach me at: `75409655` (WhatsApp me maybe?)  
+- 😄 Pronouns: **Francisco / he**  
+- ⚡ Fun fact: _"When it comes to hard work, no one beats me... or heavy code!"_
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+> _"From threads and textiles to threads and terminals — this is just the beginning."_ 🚀
